@@ -3,15 +3,16 @@
 
 - 👨🏻‍💻 I develop pixel-perfect websites.
 - 💬 Ask me about Blockchain & Cryptograph.
-- 🌱 I’m currently learning **Tailwind CSS**
-- 🔭 I’m currently working at Amdox Technologies
+- 🌱 I’m currently learning **Tailwind CSS**.
+- 🔭 I’m currently working at Amdox Technologies.
 - 📫 How to reach me - parasprajapati134@gmail.com
 
 
 ### 🛠 &nbsp;Tech Stack
 
-![HTML](https://shields.io/badge/HTML-white?logo=html5&style=for-the-badge)&nbsp;
+![HTML](https://shields.io/badge/HTML-f06529?logo=html5&logoColor=white&labelColor=f06529)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-000?logo=CSS)&nbsp;
+![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)&nbsp;
 ![Javascript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
