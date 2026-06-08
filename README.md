@@ -2,8 +2,8 @@
 <h3 align="center">A Passionate Web Developer...</h3>
 
 - 👨🏻‍💻 I develop pixel-perfect websites.
-- 💬 Ask me about Blockchain & Cryptograph.
 - 🌱 I’m currently learning **Tailwind CSS**.
+- 💬 Ask me about Blockchain & Cryptograph.
 - 🔭 I’m currently working at Amdox Technologies.
 - 📫 How to reach me - parasprajapati134@gmail.com
 
