@@ -8,6 +8,7 @@
 - 📫 How to reach me - parasprajapati134@gmail.com
 
 
+
 ### 🛠 &nbsp;Tech Stack
 
 ![HTML](https://shields.io/badge/HTML-f06529?logo=html5&logoColor=white&labelColor=f06529)&nbsp;
@@ -19,6 +20,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 
+
 ### 🛠 &nbsp;Languages and Tools
 <p align="left"> 
 <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="60" height="60"/> </a> 
@@ -28,6 +30,7 @@
 <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="60" height="60"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>
 <a href="https://github.com/" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/github/images/47bfd2d4-712f-4dee-9315-f99c611b7598.svg" alt="GitHub" width="60" height="60"/> </a>
+
 
 
 ### Connect with me:
