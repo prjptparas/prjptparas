@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <b>Paras Prajapati<b></h1>
+<h1 align="center">Hi 👋, I'm <b>Paras Prajapati</b></h1>
 <h3 align="center">A Passionate Web Developer...</h3>
 
 - 👨🏻‍💻 I develop pixel-perfect websites.
