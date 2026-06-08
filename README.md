@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Paras Prajapati</h1>
-<h3 align="center">A passionate Web Developer</h3>
+<h1 align="center">Hi 👋, I'm <b>Paras Prajapati<b></h1>
+<h3 align="center">A Passionate Web Developer...</h3>
 
 - 👨🏻‍💻 I develop pixel-perfect websites.
 - 💬 Ask me about Blockchain & Cryptograph.
