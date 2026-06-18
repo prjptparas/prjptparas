@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <b>Paras Prajapati</b></h1>
-<h3 align="center">A Passionate Web Developer...</h3>
+<h2 align="center">A Passionate Web Developer</h2>
 
 - 👨🏻‍💻 I develop pixel-perfect websites.
 - 🌱 I’m currently learning **Tailwind CSS**.
