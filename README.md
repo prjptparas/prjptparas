@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <b>Paras Prajapati</b></h1>
 <h3 align="center">A Passionate Web Developer</h3>
 
-- 👨🏻‍💻 I develop pixel-perfect Websites
+- 👨🏻‍💻 I develop pixel-perfect Websites.
 - 🌱 I’m currently learning **Tailwind CSS**.
 - 💬 Ask me about Blockchain & Cryptograph.
 - 🔭 I’m currently working at Amdox Technologies.
