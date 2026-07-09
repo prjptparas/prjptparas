@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm <b>Paras Prajapati</b></h1>
+<h1 align="center">Hello👋<br>I'm <b>Paras Prajapati</b></h1>
+
 <h3 align="center">A Passionate Web Developer</h3>
 
-- 👨🏻‍💻 I develop pixel-perfect Websites.
+- 👨🏻‍💻 I develop pixel-perfect **Websites**.
 - 🌱 I’m currently learning **Tailwind CSS**.
-- 💬 Ask me about Blockchain & Cryptograph.
-- 🔭 I’m currently working at Amdox Technologies.
-- 📫 How to reach me - parasprajapati134@gmail.com
+- 💬 Ask me about **Blockchain & Cryptograph**.
+- 🔭 I’m currently working at **Amdox Technologies**.
+- 📫 How to reach me - **parasprajapati134@gmail.com**
+<br><br><br>
 
-
-
-### 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;**Tech Stack**
 
 ![HTML](https://shields.io/badge/HTML-f06529?logo=html5&logoColor=white&labelColor=f06529)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-000?logo=CSS)&nbsp;
@@ -18,25 +18,23 @@
 ![Javascript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+<br><br><br>
 
-
-
-### 🛠 &nbsp;Languages and Tools
+## 🛠 &nbsp;**Languages and Tools**
 <p align="left"> 
-<a href="https://en.wikipedia.org/wiki/HTML" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="60" height="60"/> </a> 
-<a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" alt="CSS" width="60" height="60"/> </a>
-<a href="https://en.wikipedia.org/wiki/React_Native" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="60" height="60"/> </a>
-<a href="https://en.wikipedia.org/wiki/Tailwind_CSS" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="60" height="60"/> </a> 
-<a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="60" height="60"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>
-<a href="https://github.com/" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/github/images/47bfd2d4-712f-4dee-9315-f99c611b7598.svg" alt="GitHub" width="60" height="60"/> </a>
+<a href="https://en.wikipedia.org/wiki/HTML" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="70" height="70"/> </a> 
+<a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" alt="CSS" width="70" height="70"/> </a>
+<a href="https://en.wikipedia.org/wiki/React_Native" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="70" height="70"/> </a>
+<a href="https://en.wikipedia.org/wiki/Tailwind_CSS" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="70" height="70"/> </a> 
+<a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="70" height="70"/> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70" height="70"/> </a>
+<a href="https://github.com/" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/github/images/47bfd2d4-712f-4dee-9315-f99c611b7598.svg" alt="GitHub" width="70" height="70"/> </a>
+<br><br><br>
 
+## **Connect with me:**
 
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="29px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="29px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
