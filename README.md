@@ -7,7 +7,7 @@
 - 💬 Ask me about **Blockchain & Cryptograph**.
 - 🔭 I’m currently working at **Amdox Technologies**.
 - 📫 How to reach me - **parasprajapati134@gmail.com**
-<br><br><br>
+<br><br>
 
 ## 🛠 &nbsp;**Tech Stack**
 
@@ -18,7 +18,7 @@
 ![Javascript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-<br><br><br>
+<br><br>
 
 ## 🛠 &nbsp;**Languages and Tools**
 <p align="left"> 
@@ -29,7 +29,7 @@
 <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="70" height="70"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70" height="70"/> </a>
 <a href="https://github.com/" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/github/images/47bfd2d4-712f-4dee-9315-f99c611b7598.svg" alt="GitHub" width="70" height="70"/> </a>
-<br><br><br>
+<br><br>
 
 ## **Connect with me:**
 
