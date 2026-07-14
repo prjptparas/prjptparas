@@ -22,19 +22,19 @@
 
 ## 🛠 &nbsp;**Languages and Tools**
 <p align="left"> 
-<a href="https://en.wikipedia.org/wiki/HTML" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="70" height="70"/> </a> 
-<a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" alt="CSS" width="70" height="70"/> </a>
-<a href="https://en.wikipedia.org/wiki/React_Native" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="70" height="70"/> </a>
-<a href="https://en.wikipedia.org/wiki/Tailwind_CSS" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="70" height="70"/> </a> 
-<a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="70" height="70"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70" height="70"/> </a>
-<a href="https://github.com/" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/github/images/47bfd2d4-712f-4dee-9315-f99c611b7598.svg" alt="GitHub" width="70" height="70"/> </a>
+<a href="https://en.wikipedia.org/wiki/HTML" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="55" height="55"/> </a> 
+<a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" alt="CSS" width="55" height="55"/> </a>
+<a href="https://en.wikipedia.org/wiki/React_Native" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="55" height="55"/> </a>
+<a href="https://en.wikipedia.org/wiki/Tailwind_CSS" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="55" height="55"/> </a> 
+<a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="55" height="55"/> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/> </a>
+<a href="https://github.com/" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/github/images/47bfd2d4-712f-4dee-9315-f99c611b7598.svg" alt="GitHub" width="55" height="55"/> </a>
 <br><br>
 
 ## **Connect with me:**
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
