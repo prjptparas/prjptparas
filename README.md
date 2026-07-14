@@ -5,7 +5,6 @@
 - 👨🏻‍💻 I develop pixel-perfect **Websites**.
 - 🌱 I’m currently learning **Tailwind CSS**.
 - 💬 Ask me about **Blockchain & Cryptograph**.
-- 🔭 I’m currently working at **Amdox Technologies**.
 - 📫 How to reach me - **parasprajapati134@gmail.com**
 <br><br>
 
